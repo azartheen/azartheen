@@ -10,7 +10,7 @@
 
 <p align='center'>
   
-  <a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
+  <a href="https://wa.me/918760572842?text=HEY!%20Azartheen">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alexandresanlim/">
@@ -31,9 +31,14 @@
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/ofmine/github-readme-stats)
 
 -->
+
+<p align='center'>
+
 - 🔭 I’m currently working on my project [Dynamic Web App](https://6footlobby.com)
-- 🌱 I’m currently learning GraphQL & Typescript
-- 💬 Ask me about anything [here](https://github.com/azartheen/ofmine/issues)
+- 🌱 I’m currently learning Dockerfile
+- 🤔 I’m looking for help with Java Developer
+- 💬 Ask me about anything [here](https://github.com/azartheen/azartheen/issues)
+</p>
 
 
 <p align='center'>
