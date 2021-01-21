@@ -40,6 +40,7 @@
 - 💬 Ask me about anything [here](https://github.com/azartheen/azartheen/issues)
 </p>
 
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=azartheen&show_icons=true&count_private=true&theme=dark" width="350"></a>
@@ -49,7 +50,7 @@
 
 <p align='center'>
   📫 Connect Mail ID: <a href='mailto:asartheen916@gmail.com'>asartheen916@gmail.com</a>
-  🍎 Connect Apple ID: <a href='mailto:asartheen916@iclould.com'>asartheen916@iclould.com</a>
+  🍎 Connect Apple ID: <a href='mailto:azartheen916@iclould.com'>asartheen916@iclould.com</a>
 
 </p>
 <p align='center'>
