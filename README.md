@@ -34,9 +34,9 @@
 
 <p align='center'>
 
-- 🔭 I’m currently working on my project [Dynamic Web App](https://6footlobby.com)
-- 🌱 I’m currently learning Dockerfile
-- 🤔 I’m looking for help with Java Developer
+- 🔭 I’m currently working on my project [Product Based App](https://icuesystems.com)
+- 🌱 I’m currently learning Python
+- 🤔 I’m looking for help with React js Developer
 - 💬 Ask me about anything [here](https://github.com/azartheen/azartheen/issues)
 </p>
 
@@ -57,11 +57,13 @@
 </p>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> 
- <a href="https://github.com/azartheen/azartheen.github.io">
+ <a href="github-readme-stats.vercel.app">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 </a>
 </p>
-**Languages and Tools Know:**  
+
+
+**Languages and Tools Know:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
