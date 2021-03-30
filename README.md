@@ -62,10 +62,10 @@
 
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> 
- <a href="github-readme-stats.vercel.app">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-</a>
+
+[comment]: <> (  <a href="#"><img src="https://badges.pufler.dev/visits/azartheen/azartheen"></a> )
+<a href="#"><img src="https://badges.pufler.dev/visits/puf17640/git-badges"></a> 
+ 
 </p>
 
 
@@ -89,6 +89,10 @@
 
 </p>
 
+
+
+<img align="right" alt="GIF" src="https://github.com/azartheen/azartheen/blob/master/code.gif?raw=true"  width="500" height="320"/>
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
@@ -100,26 +104,8 @@ Markdown     28 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈 Hope ill get some suprise
+If you like what I do,consider buying me coffee/tea 🥺👉👈 Hope ill get some suprise
 
 <a href="https://www.buymeacoffee.com/Azartheen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-<img align="right" alt="GIF" src="https://github.com/azartheen/azartheen/blob/master/code.gif?raw=true" />
-
-<!--
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=azartheen&repo=azartheen.github.io&theme=radical" />
-
-**alexandresanlim/alexandresanlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
