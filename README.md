@@ -1,9 +1,15 @@
-<h1 align='center'>
- Hey Buddy! 👋 I'm Azartheen 👨‍💻
-</h1>
+<h3 align='center'>
+ 
+ ### Hey Buddy!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  [I'm Azartheen 👨‍💻](https://azfnatechki.tech/)
+ A software developer,mobile app(IOS && ANDROID),web app from india... Passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+ I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+
+</h3>
 
 <p align='center'>
-  A software developer,mobile app(IOS && ANDROID),web app from india
+ 
 </p>
 
 
@@ -40,7 +46,7 @@
 - 💬 Ask me about anything [here](https://github.com/azartheen/azartheen/issues)
 </p>
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+![Dino](https://github.com/azartheen/azartheen/blob/master/code.gif)
 <p align='center'>
 📈 My GitHub Stats 📈 
 </p>
@@ -63,6 +69,11 @@
 </p>
 
 
+
+
+
+<p align='center'>
+
 **Languages and Tools Know:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -75,6 +86,26 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>    
+
+</p>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+React js     9 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.60 % 
+Python       7 hrs 6 mins    █████████▒░░░░░░░░░░░░░░░   37.12 % 
+Other        1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+HTML5        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Markdown     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+```
+<!--END_SECTION:waka-->
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈 Hope ill get some suprise
+
+<a href="https://www.buymeacoffee.com/Azartheen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+<img align="right" alt="GIF" src="https://github.com/azartheen/azartheen/blob/master/code.gif?raw=true" />
 
 <!--
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=azartheen&repo=azartheen.github.io&theme=radical" />
