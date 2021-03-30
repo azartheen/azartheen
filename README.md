@@ -51,8 +51,9 @@
 📈 My GitHub Stats 📈 
 </p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=azartheen&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=azartheen&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" width="350"></a>
+    
+
 </p>
 
 
@@ -108,4 +109,9 @@ If you like what I do,consider buying me coffee/tea 🥺👉👈 Hope ill get so
 
 <a href="https://www.buymeacoffee.com/Azartheen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+<br>
 
+<p align="center"> 
+  😍😍😍 Thank You For Checking My Profile count+1 HAHAHA 😍😍😍 <br>
+  <img src="https://profile-counter.glitch.me/Azartheen/count.svg" />
+</p>
