@@ -46,7 +46,7 @@
 - 💬 Ask me about anything [here](https://github.com/azartheen/azartheen/issues)
 </p>
 
-![Dino](https://github.com/azartheen/azartheen/blob/master/code.gif)
+![Dino](https://github.com/azartheen/azartheen/blob/master/dino.gif)
 <p align='center'>
 📈 My GitHub Stats 📈 
 </p>
