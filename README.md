@@ -1,9 +1,8 @@
 <h3 align='center'>
-  Hey Buddy!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  [I'm Azartheen 👨‍💻](https://azfnatechki.tech/)
- A software developer,mobile app(IOS && ANDROID),web app from india... Passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
- I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
+  
+  𝙷𝚎𝚢 𝙱𝚞𝚍𝚍𝚢!!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  [𝙸'𝚖 𝙰𝚣𝚊𝚛𝚝𝚑𝚎𝚎𝚗 👨‍💻](https://azfnatechki.tech/)
+  𝙰 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛,𝚖𝚘𝚋𝚒𝚕𝚎 𝚊𝚙𝚙(𝙸𝙾𝚂 && 𝙰𝙽𝙳𝚁𝙾𝙸𝙳),𝚠𝚎𝚋 𝚊𝚙𝚙 𝚏𝚛𝚘𝚖 𝚒𝚗𝚍𝚒𝚊... 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚜𝚎𝚕𝚏-𝚝𝚊𝚞𝚐𝚑𝚝 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚊 𝚏𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊. 𝙼𝚢 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚏𝚘𝚛 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚕𝚒𝚎𝚜 𝚠𝚒𝚝𝚑 𝚍𝚛𝚎𝚊𝚖𝚒𝚗𝚐 𝚞𝚙 𝚒𝚍𝚎𝚊𝚜 𝚊𝚗𝚍 𝚖𝚊𝚔𝚒𝚗𝚐 𝚝𝚑𝚎𝚖 𝚌𝚘𝚖𝚎 𝚝𝚛𝚞𝚎 𝚠𝚒𝚝𝚑 𝚎𝚕𝚎𝚐𝚊𝚗𝚝 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜. 𝙸 𝚝𝚊𝚔𝚎 𝚐𝚛𝚎𝚊𝚝 𝚌𝚊𝚛𝚎 𝚒𝚗 𝚝𝚑𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎, 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎, 𝚊𝚗𝚍 𝚌𝚘𝚍𝚎 𝚚𝚞𝚊𝚕𝚒𝚝𝚢 𝚘𝚏 𝚝𝚑𝚎 𝚝𝚑𝚒𝚗𝚐𝚜 𝙸 𝚋𝚞𝚒𝚕𝚍... 𝙸 𝚊𝚖 𝚊𝚕𝚜𝚘 𝚊𝚗 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 𝚊𝚗𝚍 𝚖𝚊𝚒𝚗𝚝𝚊𝚒𝚗𝚎𝚛. 𝙸 𝚕𝚎𝚊𝚛𝚗𝚎𝚍 𝚊 𝚕𝚘𝚝 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢 𝚊𝚗𝚍 𝙸 𝚕𝚘𝚟𝚎 𝚑𝚘𝚠 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚜𝚑𝚊𝚛𝚒𝚗𝚐 𝚑𝚊𝚙𝚙𝚎𝚗𝚎𝚍 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎.
+  
 
 </h3>
 
