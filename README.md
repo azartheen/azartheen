@@ -11,7 +11,7 @@
 </p>
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"> <em><b>I love connecting with different people so if you want to say  hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people so if you want to say  hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="center">
   <a href="https://azfnatechki.tech"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
