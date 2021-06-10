@@ -11,7 +11,7 @@
 </p>
 
 
-### Hold Hands with me Directly By Clicking these icons 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="10"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="center">
   <a href="https://azfnatechki.tech"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
@@ -117,6 +117,6 @@ If you like what I do,consider buying me coffee/tea 🥺👉👈 Hope ill get so
   😍😍😍 Thank You For Checking My Profile count+1 HAHAHA 😍😍😍 <br>
   <img src="https://profile-counter.glitch.me/Azartheen/count.svg" />
 </p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 ---
