@@ -11,37 +11,29 @@
 </p>
 
 
+### Hold Hands with me Directly By Clicking these icons 
 
-<p align='center'>
-  
-  <a href="https://wa.me/918760572842?text=HEY!%20Azartheen">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/asartheen/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/azartheen_s/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+<p align="center">
+  <a href="https://azfnatechki.tech"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="mailto:asartheen916@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.facebook.com/Azartheen.786.23/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://twitter.com/Azartheen5"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://instagram.com/azartheen_s/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.linkedin.com/in/asartheen/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://stackoverflow.com/users/8483046/azartheen"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
   
 </p>
 
-<!--
-### My Skills
-<img src="https://img.shields.io/badge/c%20sharp%20🟢🟢🟢🟢🟢-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /> 
-<img src="https://img.shields.io/badge/xamarin%20forms%20🟢🟢🟢🟢🟢-%233498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white" /> 
-<img src="https://img.shields.io/badge/dotnet%20🟢🟢🟢🟢🟢-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" /> 
-<img src="https://img.shields.io/badge/html%20🟢🟢🟢🟢⚪-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/ofmine/github-readme-stats)
 
--->
+ ---
+ 
 
 <p align='center'>
 
-- 🔭 I’m currently working on my project [Product Based App](https://icuesystems.com)
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with React js Developer
-- 💬 Ask me about anything [here](https://github.com/azartheen/azartheen/issues)
+- 🔭 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔𝕥 [🅟🅓 🅑🅐🅢🅔🅓 🅐🅟🅟](https://icuesystems.com)
+- 🌱 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 ℙ𝕪𝕥𝕙𝕠𝕟
+- 🤔 𝕀’𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕗𝕠𝕣 𝕙𝕖𝕝𝕡 𝕨𝕚𝕥𝕙 ℝ𝕖𝕒𝕔𝕥 𝕛𝕤 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
+- 💬 [ 𝔸𝕤𝕜 𝕞𝕖 𝕒𝕓𝕠𝕦𝕥 𝕒𝕟𝕪𝕥𝕙𝕚𝕟𝕘 ](https://github.com/azartheen/azartheen/issues)
 </p>
 
 ![Dino](https://github.com/azartheen/azartheen/blob/master/dino.gif)
@@ -99,7 +91,7 @@
   
 
 </p>
-
+---
 
 
 <img align="right" alt="GIF" src="https://github.com/azartheen/azartheen/blob/master/code.gif?raw=true"  width="500" height="320"/>
@@ -120,7 +112,7 @@ If you like what I do,consider buying me coffee/tea 🥺👉👈 Hope ill get so
 <a href="https://www.buymeacoffee.com/Azartheen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br>
-
+---
 <p align="center"> 
   😍😍😍 Thank You For Checking My Profile count+1 HAHAHA 😍😍😍 <br>
   <img src="https://profile-counter.glitch.me/Azartheen/count.svg" />
