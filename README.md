@@ -60,7 +60,7 @@
 </p>
 
 
-
+---
 
 ### - Languages and Tools...
 
@@ -112,7 +112,7 @@ If you like what I do,consider buying me coffee/tea 🥺👉👈 Hope ill get so
 <a href="https://www.buymeacoffee.com/Azartheen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br>
----
+
 <p align="center"> 
   😍😍😍 Thank You For Checking My Profile count+1 HAHAHA 😍😍😍 <br>
   <img src="https://profile-counter.glitch.me/Azartheen/count.svg" />
