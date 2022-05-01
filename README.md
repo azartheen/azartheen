@@ -14,7 +14,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20"> <em><b>I love connecting with different people so if you want to say  hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="center">
-  <a href="https://azfnatechki.tech"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="https://azfnatechki.netlify.app"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:asartheen916@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.facebook.com/Azartheen.786.23/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://twitter.com/Azartheen5"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
@@ -30,7 +30,7 @@
 
 <p align='center'>
 
-- 🔭 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔𝕥 [🅟🅓 🅑🅐🅢🅔🅓 🅐🅟🅟](https://icuesystems.com)
+- 🔭 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔𝕥 [🅟🅓 🅑🅐🅢🅔🅓 🅐🅟🅟](https://admin-dashboard-finalrelease.vercel.app/)
 - 🌱 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 ℙ𝕪𝕥𝕙𝕠𝕟
 - 🤔 𝕀’𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕗𝕠𝕣 𝕙𝕖𝕝𝕡 𝕨𝕚𝕥𝕙 ℝ𝕖𝕒𝕔𝕥 𝕛𝕤 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
 - 💬 [ 𝔸𝕤𝕜 𝕞𝕖 𝕒𝕓𝕠𝕦𝕥 𝕒𝕟𝕪𝕥𝕙𝕚𝕟𝕘 ](https://github.com/azartheen/azartheen/issues)
@@ -49,7 +49,7 @@
 
 <p align='center'>
   📫 Connect Mail ID: <a href='mailto:asartheen916@gmail.com'>asartheen916@gmail.com</a>
-  🍎 Connect Apple ID: <a href='mailto:azartheen916@iclould.com'>asartheen916@iclould.com</a>
+  🍎 Connect Apple ID: <a href='mailto:asartheen916@iclould.com'>asartheen916@iclould.com</a>
 
 </p>
 <p align='center'>
