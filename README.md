@@ -56,7 +56,7 @@
 </p>
 <p align='center'>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/azartheen/azartheen/master/git.svg)![github contribution grid snake animation](https://raw.githubusercontent.com/azartheen/azartheen/master/git.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/azartheen/azartheen/master/git.svg)
 </p>
 
 
