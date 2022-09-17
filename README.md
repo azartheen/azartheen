@@ -57,7 +57,7 @@
 <p align='center'>
 
 [comment]: <> (  <a href="#"><img src="https://raw.githubusercontent.com/azartheen/azartheen/master/git.svg"></a> )
-<a href="#"><img src="https://badges.pufler.dev/visits/puf17640/git-badges"></a> 
+<a href="#"><img src="[https://badges.pufler.dev/visits/puf17640/git-badges](https://raw.githubusercontent.com/azartheen/azartheen/master/git.svg)"></a> 
  
 </p>
 
