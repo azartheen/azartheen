@@ -1,4 +1,3 @@
-Config File for MY Profile
 
 <h3 align='center'>
   <br/>
