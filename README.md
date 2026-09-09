@@ -4,14 +4,8 @@
   so GitHub renders it on your profile page.
 -->
 
-<!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
-
-<a href="https://azfnatechki.netlify.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Azartheen&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%80%A2%20iOS%20%E2%80%A2%20Android%20%E2%80%A2%20Web&descAlignY=55&descSize=18" alt="Azartheen — hero banner" width="100%">
-</a>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Azartheen+%F0%9F%91%8B;Full-Stack+Developer+from+India;iOS+%E2%80%A2+Android+%E2%80%A2+Web;Open-source+enthusiast+%26+maintainer" alt="Azartheen — Full-Stack Developer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=800&color=00D9FF&center=true&vCenter=true&width=680&lines=Hey+there%2C+I'm+Azartheen+%F0%9F%91%8B;Full-Stack+Software+Engineer+from+India;Coding+since+2017+%E2%80%A2+iOS+%E2%80%A2+Android+%E2%80%A2+Web;Open-source+enthusiast+%26+maintainer" alt="Azartheen — Full-Stack Software Engineer">
 </h1>
 
 <p align="center">
@@ -28,13 +22,22 @@
   <a href="https://github.com/azartheen?tab=followers"><img src="https://img.shields.io/github/followers/azartheen?label=Followers&style=social" alt="Followers"></a>
 </p>
 
+<!-- ═══════════════════════ HIRE-ME CTA ═══════════════════════ -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Available%20for-Freelance%20Work-25D366?style=for-the-badge&logo=briefcase&logoColor=white" alt="Available for freelance work">
+  &nbsp;
+  <a href="mailto:asartheen916@gmail.com?subject=Freelance%20inquiry%20from%20GitHub">
+    <img src="https://img.shields.io/badge/Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch">
+  </a>
+</p>
+
 <!-- ═══════════════════════ TABLE OF CONTENTS ═══════════════════════ -->
 
 <p align="center">
   <a href="#about-me">About</a> ·
   <a href="#featured-projects">Projects</a> ·
   <a href="#tech-stack">Stack</a> ·
-  <a href="#highlights">Highlights</a> ·
   <a href="#github-stats">Stats</a> ·
   <a href="#support">Support</a>
 </p>
@@ -43,12 +46,10 @@
 
 ## About Me
 
-<img align="right" alt="Dino running" src="./dino.gif" width="220">
+<img align="right" alt="Coding dino mascot" src="./dino.gif" width="160">
 
-I'm a self-taught full-stack developer and freelance software engineer from India, building for **iOS**, **Android**, and the **web**. I care about the experience, architecture, and code quality of everything I ship — and I owe a lot of what I know to the open-source community, which is why I contribute back where I can.
+Self-taught full-stack software engineer freelancing from India. Coding since **2017**, building for **iOS**, **Android**, and the **web**. I care about experience, architecture, and code quality — and I ship for real users, not just demos.
 
-- 🚀 Currently building — [**WA PingoHub**](https://wapingohub.in/) · a WhatsApp Business API platform for Indian businesses (chatbot, campaigns, and whitelabel — from ₹0.50/msg)
-- 🎛️ Also shipped — [**PD Based Admin Dashboard**](https://admin-dashboard-finalrelease.vercel.app/) (React)
 - 🌱 Currently learning — **Python**
 - 🤝 Open to — **React collaborations & open-source contributions**
 - 💬 Ask me anything — [**GitHub Issues**](https://github.com/azartheen/azartheen/issues)
@@ -62,19 +63,17 @@ I'm a self-taught full-stack developer and freelance software engineer from Indi
 
 <table align="center">
   <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">🌟 WA PingoHub <sub><em>— current work</em></sub></h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🌟 WA PingoHub</h3>
       <p align="center">
         <a href="https://wapingohub.in/">
           <img src="https://img.shields.io/badge/Live-Site-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Live site">
         </a>
       </p>
       <p align="center">
-        WhatsApp Business API platform for Indian businesses — automated <strong>chatbot</strong>, bulk <strong>campaigns</strong>, and <strong>white-label</strong> deployments starting at <strong>₹0.50/msg</strong>. Built for agencies and enterprises running customer engagement at scale.
+        WhatsApp Business API platform for Indian businesses — automated <strong>chatbot</strong>, bulk <strong>campaigns</strong>, and <strong>white-label</strong> deployments from <strong>₹0.50/msg</strong>. Built for agencies and enterprises running customer engagement at scale.
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">PD Based Admin Dashboard</h3>
       <p align="center">
@@ -82,19 +81,18 @@ I'm a self-taught full-stack developer and freelance software engineer from Indi
           <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live demo">
         </a>
       </p>
-      <p align="center">A React admin dashboard with responsive layouts, dynamic charts, and clean interaction patterns.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
       <p align="center">
-        <a href="https://azfnatechki.netlify.app">
-          <img src="https://img.shields.io/badge/Visit-Site-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-        </a>
+        A production-ready React admin dashboard with responsive layouts, dynamic charts, and clean interaction patterns — deployed on Vercel.
       </p>
-      <p align="center">My personal site — projects, experience, and ways to get in touch.</p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/azartheen?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20more%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="See more on GitHub">
+  </a>
+</p>
 
 ---
 
@@ -103,18 +101,6 @@ I'm a self-taught full-stack developer and freelance software engineer from Indi
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,python,swift,html,css,bootstrap,jquery,aws,gcp,git,github,npm,vscode&perline=8" alt="React, Node.js, JavaScript, TypeScript, Python, Swift, HTML, CSS, Bootstrap, jQuery, AWS, GCP, Git, GitHub, npm, VS Code">
 </p>
-
----
-
-## Highlights
-
-- 🚀 **Shipping [WA PingoHub](https://wapingohub.in/)** — WhatsApp Business API platform for Indian businesses (chatbot, campaigns, whitelabel · from ₹0.50/msg)
-- 🎛️ **Shipped [PD Based Admin Dashboard](https://admin-dashboard-finalrelease.vercel.app/)** — production-ready React dashboard on Vercel
-- 🌐 **Maintain [azfnatechki.netlify.app](https://azfnatechki.netlify.app)** — personal portfolio hosted on Netlify
-- 📱 **Multi-platform builder** — iOS (Swift), Android, and modern web (React + Node.js)
-- ☁️ **Cloud & deploy fluency** — AWS · GCP · Vercel · Netlify
-- 🧑‍💻 **Active on [Stack Overflow](https://stackoverflow.com/users/8483046/azartheen)** — answering questions in the React & JavaScript communities
-- 🌱 **Open-source enthusiast & maintainer** — long-time contributor to the OSS ecosystem I learned from
 
 ---
 
@@ -149,9 +135,9 @@ I'm a self-taught full-stack developer and freelance software engineer from Indi
 
 ---
 
-## Weekly Coding Breakdown
+## This Week in Code
 
-<img align="right" alt="Coding animation" src="./code.gif" width="380">
+<img align="right" alt="Terminal editing a React component" src="./code.gif" width="380">
 
 <!--START_SECTION:waka-->
 ```text
@@ -169,7 +155,7 @@ Markdown     28 mins         ▓░░░░░░░░░░░░░░░░
 
 ---
 
-## Dev Quote of the Reload
+## Dev Quote
 
 <p align="center">
   <picture>
