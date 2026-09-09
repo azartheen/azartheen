@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="mailto:asartheen916@gmail.com?subject=Freelance%20inquiry%20from%20GitHub">
-    <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Available%20for%20Freelance%20%E2%80%A2%20Click%20to%20get%20in%20touch-25D366?style=for-the-badge&labelColor=0D1117" alt="Available for freelance work — click to email">
+    <img src="https://img.shields.io/badge/Available%20for%20Freelance%20%E2%80%A2%20Click%20to%20get%20in%20touch-25D366?style=for-the-badge&labelColor=0D1117" alt="Available for freelance work — click to email">
   </a>
 </p>
 
@@ -32,10 +32,9 @@
   <a href="#about-me">About</a> ·
   <a href="#featured-projects">Projects</a> ·
   <a href="#tech-stack">Stack</a> ·
+  <a href="#services">Services</a> ·
   <a href="#github-stats">Stats</a> ·
-  <a href="#this-week-in-code">Week</a> ·
-  <a href="#support">Support</a> ·
-  <a href="#contribution-snake">Snake</a>
+  <a href="#lets-build">Contact</a>
 </p>
 
 ---
@@ -48,11 +47,11 @@
       <img alt="Coding dino mascot" src="./dino.gif" width="120">
     </td>
     <td>
-      I obsess over experience, architecture, and code quality — building for real users, from freelance clients to production platforms.
+      I'm a full-stack engineer based in India, obsessed with experience, architecture, and code quality. I've spent the last several years shipping production software — from freelance client builds to platforms serving businesses at scale. My sweet spot is turning fuzzy product ideas into fast, reliable, well-crafted apps that people actually enjoy using.
       <br><br>
-      🌱 <b>Currently leveling up in</b> — AI/ML tooling with Python<br>
-      🤝 <b>Open to</b> — React collaborations & open-source contributions<br>
-      📫 <b>Reach me</b> — <code>asartheen916@gmail.com</code>
+      Working across the stack keeps me sharp: React and TypeScript on the front, Node.js and Python on the back, native iOS and Android when the product demands it. I care as much about the millisecond of a page load as I do about how a button feels under a thumb.
+      <br><br>
+      <sub>🌱 &nbsp;<b>Currently leveling up in</b> AI / ML tooling with Python &nbsp;·&nbsp; 🤝 &nbsp;<b>Open to</b> React collabs & open-source contributions</sub>
     </td>
   </tr>
 </table>
@@ -71,8 +70,14 @@
         </a>
       </p>
       <p align="center">
-        WhatsApp Business API platform for Indian businesses — automated <strong>chatbot</strong>, bulk <strong>campaigns</strong>, and <strong>white-label</strong> deployments from <strong>₹0.50/msg</strong>. Built for agencies and enterprises running customer engagement at scale.
+        WhatsApp Business API platform for Indian businesses — chatbots, bulk campaigns, and white-label deployments from <strong>₹0.50/msg</strong>. Built for agencies and enterprises running customer engagement at scale.
       </p>
+      <ul>
+        <li>Automated <b>chatbot flows</b> with template messages</li>
+        <li>Bulk <b>campaign broadcasts</b> with delivery tracking</li>
+        <li><b>White-label</b> multi-tenant deployments</li>
+        <li>Meta-compliant messaging pricing</li>
+      </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
@@ -80,15 +85,21 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://admin-dashboard-finalrelease.vercel.app/">PD Based Admin Dashboard</a></h3>
+      <h3 align="center"><a href="https://admin-dashboard-finalrelease.vercel.app/">Real-Time Operations Dashboard</a></h3>
       <p align="center">
         <a href="https://admin-dashboard-finalrelease.vercel.app/">
           <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&labelColor=0D1117" alt="Live demo">
         </a>
       </p>
       <p align="center">
-        React admin dashboard giving operators a single pane of glass — responsive layouts, real-time charts, and interaction patterns tuned for daily use.
+        React admin dashboard giving operators a single pane of glass — responsive layouts, real-time charts, and interaction patterns tuned for daily heavy-use.
       </p>
+      <ul>
+        <li>Responsive layout tuned for <b>desktop + tablet</b></li>
+        <li>Live <b>charts &amp; KPIs</b> with instant filtering</li>
+        <li>Dark / light theming with saved preferences</li>
+        <li>Component library reusable across projects</li>
+      </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
@@ -98,21 +109,71 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/azartheen?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20more%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="See more on GitHub">
-  </a>
-</p>
-
 ---
 
 <h2 id="tech-stack">🛠️ Tech Stack</h2>
 
-<p align="center">
-  <a href="https://azfnatechki.netlify.app">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,python,swift,kotlin,html,css,bootstrap,jquery,aws,gcp,git,github,npm,vscode&perline=9" alt="React, Node.js, JavaScript, TypeScript, Python, Swift, Kotlin, HTML, CSS, Bootstrap, jQuery, AWS, GCP, Git, GitHub, npm, VS Code">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="right" width="140"><b>Frontend</b></td>
+    <td>
+      <a href="https://azfnatechki.netlify.app"><img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,jquery&perline=7" alt="React, TypeScript, JavaScript, HTML, CSS, Bootstrap, jQuery"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td>
+      <a href="https://azfnatechki.netlify.app"><img src="https://skillicons.dev/icons?i=nodejs,python&perline=7" alt="Node.js, Python"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Mobile</b></td>
+    <td>
+      <a href="https://azfnatechki.netlify.app"><img src="https://skillicons.dev/icons?i=swift,kotlin&perline=7" alt="Swift, Kotlin"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud &amp; Deploy</b></td>
+    <td>
+      <a href="https://azfnatechki.netlify.app"><img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify&perline=7" alt="AWS, GCP, Vercel, Netlify"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td>
+      <a href="https://azfnatechki.netlify.app"><img src="https://skillicons.dev/icons?i=git,github,npm,vscode&perline=7" alt="Git, GitHub, npm, VS Code"></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 id="services">🎯 How I Can Help</h2>
+
+<p align="center"><i>What I ship for clients — freelance and long-term engagements.</i></p>
+
+<table align="center">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <b>💻 &nbsp; Web Apps</b><br>
+      <sub>React + Node · TypeScript · full-stack MVPs</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <b>📱 &nbsp; Mobile Apps</b><br>
+      <sub>iOS (Swift) · Android (Kotlin)</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <b>📊 &nbsp; Dashboards &amp; Internal Tools</b><br>
+      <sub>Ops consoles · KPIs · Role-based access</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <b>🔌 &nbsp; API Integrations</b><br>
+      <sub>WhatsApp Business · third-party APIs · webhooks</sub>
+    </td>
+  </tr>
+</table>
+
+---
 
 <h2 id="github-stats">📊 GitHub Stats</h2>
 
@@ -120,71 +181,76 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=azartheen&theme=tokyonight&hide_border=true&card_width=440&hide_current_streak=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=azartheen&theme=default&hide_border=true&card_width=440&hide_current_streak=true">
-        <img src="https://streak-stats.demolab.com?user=azartheen&theme=tokyonight&hide_border=true&card_width=440&hide_current_streak=true" alt="Azartheen's GitHub streak">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=azartheen&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&card_width=440">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=azartheen&theme=default&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&card_width=440">
+        <img src="https://github-readme-stats.vercel.app/api?username=azartheen&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&card_width=440" alt="Azartheen's GitHub stats">
       </picture>
     </td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=440">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=440">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=440" alt="Top languages">
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=azartheen&theme=tokyonight&hide_border=true&card_width=440&hide_current_streak=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=azartheen&theme=default&hide_border=true&card_width=440&hide_current_streak=true">
+        <img src="https://streak-stats.demolab.com?user=azartheen&theme=tokyonight&hide_border=true&card_width=440&hide_current_streak=true" alt="Azartheen's GitHub streak">
       </picture>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azartheen&theme=tokyonight&no-frame=true&column=4&margin-w=8" alt="GitHub trophies">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=500">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top languages">
+  </picture>
 </p>
-
-### At a Glance
-
-<p align="center"><sub><b>· PROFILE ·</b></sub></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Coding%20Since-2017-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Coding since 2017">
-  &nbsp;
-  <a href="https://github.com/azartheen?tab=followers"><img src="https://img.shields.io/github/followers/azartheen?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=1F6FEB&label=Followers" alt="Followers"></a>
-  &nbsp;
-  <a href="https://stackoverflow.com/users/8483046/azartheen"><img src="https://img.shields.io/stackexchange/stackoverflow/r/8483046?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0D1117&color=F58025&label=Stack%20Overflow" alt="Stack Overflow reputation"></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Based%20in-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Based in India">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Timezone-IST%20(UTC%2B5%3A30)-6E40C9?style=for-the-badge&logo=clockify&logoColor=white&labelColor=0D1117" alt="Timezone IST UTC+5:30">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=azartheen&theme=tokyo-night&hide_border=true&area=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=azartheen&theme=github-light&hide_border=true&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=azartheen&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%">
+  </picture>
 </p>
 
-<p align="center"><sub><b>· BUILDING FOR ·</b></sub></p>
+<h3 align="center">At a Glance</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Building-iOS-A2AAAD?style=for-the-badge&logo=apple&logoColor=white&labelColor=0D1117" alt="Building for iOS">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Building-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0D1117" alt="Building for Android">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Building-Web-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" alt="Building for web">
-</p>
+<table align="center">
+  <tr>
+    <td align="right"><sub><b>PROFILE</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Since-2017-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Coding since 2017">
+      <a href="https://github.com/azartheen?tab=followers"><img src="https://img.shields.io/github/followers/azartheen?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=1F6FEB&label=Followers" alt="Followers"></a>
+      <a href="https://stackoverflow.com/users/8483046/azartheen"><img src="https://img.shields.io/stackexchange/stackoverflow/r/8483046?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0D1117&color=F58025&label=Stack%20Overflow" alt="Stack Overflow reputation"></a>
+      <img src="https://img.shields.io/badge/Based%20in-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Based in India">
+      <img src="https://img.shields.io/badge/Timezone-IST%20(UTC%2B5%3A30)-6E40C9?style=for-the-badge&logo=clockify&logoColor=white&labelColor=0D1117" alt="Timezone IST UTC+5:30">
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>BUILDING FOR</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/iOS-A2AAAD?style=for-the-badge&logo=apple&logoColor=white&labelColor=0D1117" alt="iOS">
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0D1117" alt="Android">
+      <img src="https://img.shields.io/badge/Web-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" alt="Web">
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>CLOUD &amp; DEPLOY</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" alt="AWS">
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0D1117" alt="GCP">
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Vercel">
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117" alt="Netlify">
+    </td>
+  </tr>
+</table>
 
-<p align="center"><sub><b>· CLOUD & DEPLOY ·</b></sub></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" alt="AWS">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0D1117" alt="GCP">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Vercel">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117" alt="Netlify">
-</p>
+---
 
 <h2 id="this-week-in-code">⏱️ This Week in Code</h2>
 
 <table>
   <tr>
-    <td width="320" align="center">
-      <img alt="Terminal editing a React component" src="./code.gif" width="300">
-    </td>
-    <td>
+    <td valign="middle">
 
 <!--START_SECTION:waka-->
 ```text
@@ -197,29 +263,36 @@ Markdown     28 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 </td>
+    <td width="320" align="center" valign="middle">
+      <img alt="Terminal editing a React component" src="./code.gif" width="300">
+    </td>
   </tr>
 </table>
 
 ---
 
-<h2 id="support">☕ Support</h2>
-
-<p align="center">Enjoyed my open-source work or a client build? Coffee funds the next one.</p>
-
-<p align="center">
-  <a href="https://github.com/sponsors/azartheen">
-    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0D1117" alt="GitHub Sponsors" height="40">
-  </a>
-  &nbsp;
-  <a href="https://www.buymeacoffee.com/Azartheen">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="40">
-  </a>
-</p>
-
 <h2 id="contribution-snake">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img alt="GitHub contribution snake animation" src="./git.svg" width="100%">
+</p>
+
+---
+
+<h2 id="lets-build">🤝 Let's Build Something</h2>
+
+<p align="center">
+  Got a product idea, a stuck codebase, or a launch you want to nail? I'm around.<br>
+  <sub>Response within 24 hours on weekdays · IST (UTC+5:30)</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:asartheen916@gmail.com?subject=Hello%20from%20GitHub">
+    <img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/asartheen/">
+    <img src="https://img.shields.io/badge/Book%20a%20chat%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn">
+  </a>
 </p>
 
 <p align="center"><i>Thanks for stopping by — let's ship something worth using.</i></p>

@@ -1,0 +1,61 @@
+name: Cache Stats SVGs
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cache:
+    name: Fetch and cache stat cards to repo
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ensure assets folder exists
+        run: mkdir -p assets
+
+      - name: Fetch all stat SVGs (skip write on invalid response)
+        run: |
+          set -eu
+
+          fetch() {
+            local url="$1"
+            local out="$2"
+            local tmp
+            tmp=$(mktemp)
+            echo "→ Fetching $out"
+            if curl -sSL --max-time 30 "$url" -o "$tmp" \
+                 && [ -s "$tmp" ] \
+                 && head -c 500 "$tmp" | grep -q "<svg"; then
+              mv "$tmp" "$out"
+              echo "  ✅ Cached $out ($(wc -c <"$out") bytes)"
+            else
+              echo "  ⚠️  Invalid response — keeping previous cache for $out"
+              rm -f "$tmp"
+            fi
+          }
+
+          fetch "https://github-readme-stats.vercel.app/api?username=azartheen&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" "assets/stats-dark.svg"
+          fetch "https://github-readme-stats.vercel.app/api?username=azartheen&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true"    "assets/stats-light.svg"
+
+          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" "assets/top-langs-dark.svg"
+          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=default&hide_border=true&langs_count=8"    "assets/top-langs-light.svg"
+
+          fetch "https://github-profile-trophy.vercel.app/?username=azartheen&theme=tokyonight&no-frame=true&column=7&margin-w=8"                "assets/trophies-dark.svg"
+          fetch "https://github-profile-trophy.vercel.app/?username=azartheen&theme=gruvbox_light&no-frame=true&column=7&margin-w=8"            "assets/trophies-light.svg"
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: refresh cached stat SVGs"
+            git push
+          fi
