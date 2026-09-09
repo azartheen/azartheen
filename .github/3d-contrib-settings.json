@@ -1,0 +1,7 @@
+{
+  "type-name-map": {
+    "green-animate": "profile-green-animate.svg",
+    "night-view":    "profile-night-view.svg",
+    "night-rainbow": "profile-night-rainbow.svg"
+  }
+}

@@ -48,6 +48,9 @@ jobs:
           fetch "https://github-profile-trophy.vercel.app/?username=azartheen&theme=tokyonight&no-frame=true&column=7&margin-w=8"                "assets/trophies-dark.svg"
           fetch "https://github-profile-trophy.vercel.app/?username=azartheen&theme=gruvbox_light&no-frame=true&column=7&margin-w=8"            "assets/trophies-light.svg"
 
+          fetch "https://github-readme-activity-graph.vercel.app/graph?username=azartheen&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity%20%E2%80%94%20last%2031%20days&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" "assets/activity-graph-dark.svg"
+          fetch "https://github-readme-activity-graph.vercel.app/graph?username=azartheen&theme=minimal&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity%20%E2%80%94%20last%2031%20days"                                                        "assets/activity-graph-light.svg"
+
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"

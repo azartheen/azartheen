@@ -1,0 +1,61 @@
+name: Metrics Dashboard
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    name: Generate metrics.svg
+    runs-on: ubuntu-latest
+    steps:
+      # ─────────────────────────────
+      # Base personal metrics
+      # ─────────────────────────────
+      - name: Base metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          # NOTE: create a Classic Personal Access Token with scopes
+          # `repo, read:user, read:org` and save it as secret METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 8483046
+          plugin_stackoverflow_sections: answers-top, questions-top
+          plugin_stackoverflow_limit: 3
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, projects, languages, editors, os
+          plugin_wakatime_url: https://wakatime.com
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add metrics.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: refresh metrics dashboard"
+            git push
+          fi

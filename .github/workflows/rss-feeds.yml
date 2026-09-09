@@ -1,0 +1,63 @@
+name: RSS Feeds Sync
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    name: Pull Stack Overflow feed into README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # ─────────────────────────────
+      # Latest Stack Overflow Q&A
+      # Feed: user 8483046 (public — no key needed)
+      # ─────────────────────────────
+      - name: Sync Stack Overflow
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://stackoverflow.com/feeds/user/8483046"
+          max_post_count: 5
+          comment_tag_name: "STACKOVERFLOW"
+          template: "- [$title]($url) — <sub>$date</sub>"
+          commit_message: "chore: refresh Stack Overflow feed"
+
+      # ─────────────────────────────
+      # Latest Goodreads (opt-in)
+      #
+      # TODO: To activate, uncomment the block below and replace
+      #       GOODREADS_USER_ID with your numeric user id from
+      #       https://www.goodreads.com/user/show/YOUR_ID
+      #       Feed URL example:
+      #       https://www.goodreads.com/review/list_rss/YOUR_ID?shelf=currently-reading
+      # ─────────────────────────────
+      # - name: Sync Goodreads currently reading
+      #   uses: gautamkrishnar/blog-post-workflow@master
+      #   with:
+      #     feed_list: "https://www.goodreads.com/review/list_rss/GOODREADS_USER_ID?shelf=currently-reading"
+      #     max_post_count: 3
+      #     comment_tag_name: "GOODREADS"
+      #     template: "- **$title** — <sub>$date</sub>"
+      #     commit_message: "chore: refresh Goodreads shelf"
+
+      # ─────────────────────────────
+      # Latest blog posts (opt-in)
+      #
+      # TODO: To activate, uncomment and replace with your feed URL
+      #       - dev.to:    https://dev.to/feed/YOUR_USERNAME
+      #       - Hashnode:  https://YOUR_SUB.hashnode.dev/rss.xml
+      #       - Medium:    https://medium.com/feed/@YOUR_USERNAME
+      # ─────────────────────────────
+      # - name: Sync blog posts
+      #   uses: gautamkrishnar/blog-post-workflow@master
+      #   with:
+      #     feed_list: "https://dev.to/feed/YOUR_USERNAME"
+      #     max_post_count: 5
+      #     comment_tag_name: "BLOG"
+      #     template: "- [$title]($url) — <sub>$date</sub>"

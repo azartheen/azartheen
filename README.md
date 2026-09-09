@@ -19,7 +19,13 @@
   <a href="mailto:asartheen916@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/asartheen/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"></a>
   <a href="https://twitter.com/Azartheen5"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter"></a>
+  <a href="https://instagram.com/azartheen_s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"></a>
   <a href="https://stackoverflow.com/users/8483046/azartheen"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0D1117" alt="Stack Overflow"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=azartheen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <a href="https://github.com/azartheen?tab=followers"><img src="https://img.shields.io/github/followers/azartheen?label=Followers&style=social" alt="Followers"></a>
 </p>
 
 <p align="center">
@@ -34,6 +40,8 @@
   <a href="#tech-stack">Stack</a> ·
   <a href="#services">Services</a> ·
   <a href="#github-stats">Stats</a> ·
+  <a href="#latest-qa">Q&A</a> ·
+  <a href="#metrics">Metrics</a> ·
   <a href="#lets-build">Contact</a>
 </p>
 
@@ -206,11 +214,32 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=azartheen&theme=tokyo-night&hide_border=true&area=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=azartheen&theme=github-light&hide_border=true&area=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=azartheen&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-graph-light.svg">
+    <img src="./assets/activity-graph-dark.svg" alt="Contribution activity graph — last 31 days" width="100%">
   </picture>
 </p>
+
+<h3 align="center">Profile Insights</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./profile-summary-card-output/tokyonight/1-repos-per-language-card.svg" alt="Repos per language" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <img src="./profile-summary-card-output/tokyonight/2-most-commit-language-card.svg" alt="Most-committed language" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./profile-summary-card-output/tokyonight/3-stats-card.svg" alt="Profile stats" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <img src="./profile-summary-card-output/tokyonight/4-productive-time-card.svg" alt="Productive time (IST)" width="100%">
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">At a Glance</h3>
 
@@ -271,10 +300,42 @@ Markdown     28 mins         ▓░░░░░░░░░░░░░░░░
 
 ---
 
+<h2 id="latest-qa">💬 Latest Q&A on Stack Overflow</h2>
+
+<!-- STACKOVERFLOW:START -->
+- _Your latest Stack Overflow answers will appear here after the RSS workflow runs for the first time._
+<!-- STACKOVERFLOW:END -->
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/8483046/azartheen">
+    <img src="https://img.shields.io/badge/See%20full%20profile%20on%20Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0D1117" alt="See full Stack Overflow profile">
+  </a>
+</p>
+
+---
+
+<h2 id="metrics">🎛️ Metrics Dashboard</h2>
+
+<p align="center">
+  <img alt="Full profile metrics dashboard" src="./metrics.svg" width="100%">
+</p>
+
+---
+
 <h2 id="contribution-snake">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img alt="GitHub contribution snake animation" src="./git.svg" width="100%">
+</p>
+
+<h2 id="contribution-3d">🎨 3D Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img alt="Isometric 3D view of contributions over the last year" src="./profile-3d-contrib/profile-green-animate.svg" width="100%">
+  </picture>
 </p>
 
 ---
