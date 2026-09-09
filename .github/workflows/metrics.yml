@@ -1,13 +1,17 @@
 name: Metrics Dashboard
 
+# ═════════════════════════════════════════════════════════════
+# SETUP — required repo secrets (Settings → Secrets → Actions):
+#   • METRICS_TOKEN — Classic PAT with scopes: repo, read:user, read:org
+#                     (create at https://github.com/settings/tokens/new)
+#   • WAKATIME_API_KEY — optional; only needed for the WakaTime plugin
+#                        (same secret used by waka.yml)
+# ═════════════════════════════════════════════════════════════
+
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-      - master
 
 permissions:
   contents: write
