@@ -10,19 +10,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Azartheen&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20India&descAlignY=55&descSize=18" alt="Azartheen — Full-Stack Software Engineer" width="100%">
 </a>
 
-<!-- ═══════════════════════ 3-COLUMN FRAME ═══════════════════════ -->
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td width="40" valign="top">
-
-<img src="./left-wave.svg" alt="" width="40" height="2400">
-
-</td>
-<td valign="top">
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=800&color=00D9FF&center=true&vCenter=true&width=680&lines=Hey+there%2C+I'm+Azartheen+%F0%9F%91%8B;Full-Stack+Software+Engineer+from+India;Coding+since+2017+%E2%80%A2+iOS+%E2%80%A2+Android+%E2%80%A2+Web" alt="Azartheen — Full-Stack Software Engineer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=800&color=00D9FF&center=true&vCenter=true&width=680&lines=Hey+there%2C+I'm+Azartheen+%F0%9F%91%8B;Building+for+iOS+%E2%80%A2+Android+%E2%80%A2+Web;Let's+build+something+worth+building" alt="Azartheen — Full-Stack Software Engineer">
 </h1>
 
 <p align="center">
@@ -50,7 +39,10 @@
   <a href="#featured-projects">Projects</a> ·
   <a href="#tech-stack">Stack</a> ·
   <a href="#github-stats">Stats</a> ·
-  <a href="#support">Support</a>
+  <a href="#this-week-in-code">Week</a> ·
+  <a href="#dev-quote">Quote</a> ·
+  <a href="#support">Support</a> ·
+  <a href="#contribution-snake">Snake</a>
 </p>
 
 ---
@@ -118,19 +110,18 @@ Self-taught full-stack software engineer freelancing from India. Coding since **
 <h2 id="github-stats">📊 GitHub Stats</h2>
 
 <p align="center">
- 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=azartheen&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=azartheen&theme=default&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=azartheen&theme=tokyonight&hide_border=true" alt="Azartheen's GitHub streak" width="48%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=azartheen&theme=tokyonight&hide_border=true&card_width=700">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=azartheen&theme=default&hide_border=true&card_width=700">
+    <img src="https://streak-stats.demolab.com?user=azartheen&theme=tokyonight&hide_border=true&card_width=700" alt="Azartheen's GitHub streak">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=default&hide_border=true&langs_count=8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" width="40%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=500">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top languages">
   </picture>
 </p>
 
@@ -220,8 +211,6 @@ Enjoyed my open-source work or a client build? Coffee funds the next one.
   </a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — let's build something worth building.</i></p>
-
 ---
 
 <h2 id="contribution-snake">🐍 Contribution Snake</h2>
@@ -229,6 +218,8 @@ Enjoyed my open-source work or a client build? Coffee funds the next one.
 <p align="center">
   <img alt="GitHub contribution snake animation" src="./git.svg" width="100%">
 </p>
+
+<p align="center"><i>Thanks for stopping by — let's build something worth building.</i></p>
 
 <!-- ═══════════════════════ FOOTER WAVE ═══════════════════════ -->
 
