@@ -7,7 +7,7 @@
 <!-- ═══════════════════════ HERO WAVE ═══════════════════════ -->
 
 <a href="https://azfnatechki.netlify.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Azartheen&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20India&descAlignY=55&descSize=18" alt="" width="100%">
+  <img src="./assets/hero-wave.svg" alt="" width="100%">
 </a>
 
 <h1 align="center">
@@ -189,9 +189,9 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=azartheen&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&card_width=440">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=azartheen&theme=default&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&card_width=440">
-        <img src="https://github-readme-stats.vercel.app/api?username=azartheen&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&card_width=440" alt="Azartheen's GitHub stats">
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg">
+        <img src="./assets/stats-dark.svg" alt="Azartheen's GitHub stats">
       </picture>
     </td>
     <td>
@@ -206,9 +206,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=500">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/top-langs-light.svg">
+    <img src="./assets/top-langs-dark.svg" alt="Top languages">
   </picture>
 </p>
 
@@ -262,16 +262,15 @@
       <img src="https://img.shields.io/badge/Web-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" alt="Web">
     </td>
   </tr>
-  <tr>
-    <td align="right"><sub><b>CLOUD &amp; DEPLOY</b></sub></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" alt="AWS">
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0D1117" alt="GCP">
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Vercel">
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117" alt="Netlify">
-    </td>
-  </tr>
 </table>
+
+---
+
+<h2 id="metrics">🎛️ Metrics Dashboard</h2>
+
+<p align="center">
+  <img alt="Full profile metrics dashboard" src="./metrics.svg" width="100%">
+</p>
 
 ---
 
@@ -303,21 +302,13 @@ Markdown     28 mins         ▓░░░░░░░░░░░░░░░░
 <h2 id="latest-qa">💬 Latest Q&A on Stack Overflow</h2>
 
 <!-- STACKOVERFLOW:START -->
-- _Your latest Stack Overflow answers will appear here after the RSS workflow runs for the first time._
+<!-- Auto-populated by rss-feeds.yml every 6 hours from https://stackoverflow.com/feeds/user/8483046 — this list stays empty when there's been no recent activity. -->
 <!-- STACKOVERFLOW:END -->
 
 <p align="center">
   <a href="https://stackoverflow.com/users/8483046/azartheen">
     <img src="https://img.shields.io/badge/See%20full%20profile%20on%20Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0D1117" alt="See full Stack Overflow profile">
   </a>
-</p>
-
----
-
-<h2 id="metrics">🎛️ Metrics Dashboard</h2>
-
-<p align="center">
-  <img alt="Full profile metrics dashboard" src="./metrics.svg" width="100%">
 </p>
 
 ---
@@ -360,4 +351,4 @@ Markdown     28 mins         ▓░░░░░░░░░░░░░░░░
 
 <!-- ═══════════════════════ FOOTER WAVE ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="" width="100%">
+<img src="./assets/footer-wave.svg" alt="" width="100%">
