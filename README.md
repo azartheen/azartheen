@@ -4,12 +4,29 @@
   so GitHub renders it on your profile page.
 -->
 
+<!-- ═══════════════════════ HERO WAVE ═══════════════════════ -->
+
+<a href="https://azfnatechki.netlify.app">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Azartheen&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20India&descAlignY=55&descSize=18" alt="Azartheen — Full-Stack Software Engineer" width="100%">
+</a>
+
+<!-- ═══════════════════════ 3-COLUMN FRAME ═══════════════════════ -->
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="40" valign="top">
+
+<img src="./left-wave.svg" alt="" width="40" height="3200">
+
+</td>
+<td valign="top">
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=800&color=00D9FF&center=true&vCenter=true&width=680&lines=Hey+there%2C+I'm+Azartheen+%F0%9F%91%8B;Full-Stack+Software+Engineer+from+India;Coding+since+2017+%E2%80%A2+iOS+%E2%80%A2+Android+%E2%80%A2+Web;Open-source+enthusiast+%26+maintainer" alt="Azartheen — Full-Stack Software Engineer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=800&color=00D9FF&center=true&vCenter=true&width=680&lines=Hey+there%2C+I'm+Azartheen+%F0%9F%91%8B;Full-Stack+Software+Engineer+from+India;Coding+since+2017+%E2%80%A2+iOS+%E2%80%A2+Android+%E2%80%A2+Web" alt="Azartheen — Full-Stack Software Engineer">
 </h1>
 
 <p align="center">
-  <a href="https://azfnatechki.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://azfnatechki.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:asartheen916@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/asartheen/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/Azartheen5"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
@@ -22,17 +39,11 @@
   <a href="https://github.com/azartheen?tab=followers"><img src="https://img.shields.io/github/followers/azartheen?label=Followers&style=social" alt="Followers"></a>
 </p>
 
-<!-- ═══════════════════════ HIRE-ME CTA ═══════════════════════ -->
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Available%20for-Freelance%20Work-25D366?style=for-the-badge&logo=briefcase&logoColor=white" alt="Available for freelance work">
-  &nbsp;
   <a href="mailto:asartheen916@gmail.com?subject=Freelance%20inquiry%20from%20GitHub">
-    <img src="https://img.shields.io/badge/Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch">
+    <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Available%20for%20Freelance%20%E2%80%A2%20Click%20to%20get%20in%20touch-25D366?style=for-the-badge&labelColor=0D1117" alt="Available for freelance work — click to email">
   </a>
 </p>
-
-<!-- ═══════════════════════ TABLE OF CONTENTS ═══════════════════════ -->
 
 <p align="center">
   <a href="#about-me">About</a> ·
@@ -44,27 +55,27 @@
 
 ---
 
-## About Me
+<h2 id="about-me">🧑 About Me</h2>
 
-<img align="right" alt="Coding dino mascot" src="./dino.gif" width="160">
+<img align="right" alt="Coding dino mascot" src="./dino.gif" width="120">
 
-Self-taught full-stack software engineer freelancing from India. Coding since **2017**, building for **iOS**, **Android**, and the **web**. I care about experience, architecture, and code quality — and I ship for real users, not just demos.
+Self-taught full-stack software engineer freelancing from India. Coding since **2017**, building for **iOS**, **Android**, and the **web**. I care about experience, architecture, and code quality — shipping for real users from freelance clients to production platforms.
 
 - 🌱 Currently learning — **Python**
 - 🤝 Open to — **React collaborations & open-source contributions**
-- 💬 Ask me anything — [**GitHub Issues**](https://github.com/azartheen/azartheen/issues)
+- 💬 Public Q&A — [**Open a GitHub Issue on this profile**](https://github.com/azartheen/azartheen/issues) to ask me anything
 - 📫 Reach me — `asartheen916@gmail.com` · `asartheen916@icloud.com`
 
 <br clear="right">
 
 ---
 
-## Featured Projects
+<h2 id="featured-projects">🚀 Featured Projects</h2>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌟 WA PingoHub</h3>
+      <h3 align="center"><a href="https://wapingohub.in/">🌟 WA PingoHub</a></h3>
       <p align="center">
         <a href="https://wapingohub.in/">
           <img src="https://img.shields.io/badge/Live-Site-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Live site">
@@ -75,7 +86,7 @@ Self-taught full-stack software engineer freelancing from India. Coding since **
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">PD Based Admin Dashboard</h3>
+      <h3 align="center"><a href="https://admin-dashboard-finalrelease.vercel.app/">PD Based Admin Dashboard</a></h3>
       <p align="center">
         <a href="https://admin-dashboard-finalrelease.vercel.app/">
           <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live demo">
@@ -96,7 +107,7 @@ Self-taught full-stack software engineer freelancing from India. Coding since **
 
 ---
 
-## Tech Stack
+<h2 id="tech-stack">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,python,swift,html,css,bootstrap,jquery,aws,gcp,git,github,npm,vscode&perline=8" alt="React, Node.js, JavaScript, TypeScript, Python, Swift, HTML, CSS, Bootstrap, jQuery, AWS, GCP, Git, GitHub, npm, VS Code">
@@ -104,40 +115,55 @@ Self-taught full-stack software engineer freelancing from India. Coding since **
 
 ---
 
-## GitHub Stats
-
-<table align="center" border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://github.com/azartheen">
-        <img alt="Azartheen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=azartheen&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12&card_width=430">
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://github.com/azartheen">
-        <img alt="Azartheen's GitHub streak" src="https://streak-stats.demolab.com?user=azartheen&theme=tokyonight&hide_border=true&border_radius=12&card_width=430">
-      </a>
-    </td>
-  </tr>
-</table>
+<h2 id="github-stats">📊 GitHub Stats</h2>
 
 <p align="center">
   <a href="https://github.com/azartheen">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12&card_width=880">
+    <img alt="Azartheen's GitHub streak" src="https://streak-stats.demolab.com?user=azartheen&theme=tokyonight&hide_border=true&border_radius=12&card_width=600">
   </a>
 </p>
 
+### At a Glance
+
+<p align="center"><sub><b>· PROFILE ·</b></sub></p>
+
 <p align="center">
-  <a href="https://github.com/azartheen">
-    <img alt="Azartheen's contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=azartheen&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae">
-  </a>
+  <img src="https://img.shields.io/badge/Coding%20Since-2017-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Coding since 2017">
+  &nbsp;
+  <a href="https://github.com/azartheen?tab=followers"><img src="https://img.shields.io/github/followers/azartheen?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=1F6FEB&label=Followers" alt="Followers"></a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/8483046/azartheen"><img src="https://img.shields.io/stackexchange/stackoverflow/r/8483046?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0D1117&color=F58025&label=Stack%20Overflow" alt="Stack Overflow reputation"></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20in-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Based in India">
+</p>
+
+<p align="center"><sub><b>· BUILDING FOR ·</b></sub></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-iOS-A2AAAD?style=for-the-badge&logo=apple&logoColor=white&labelColor=0D1117" alt="Building for iOS">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Building-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0D1117" alt="Building for Android">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Building-Web-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" alt="Building for web">
+</p>
+
+<p align="center"><sub><b>· CLOUD & DEPLOY ·</b></sub></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" alt="AWS">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0D1117" alt="GCP">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Deploy-Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" alt="Vercel">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117" alt="Netlify">
 </p>
 
 ---
 
-## This Week in Code
+<h2 id="this-week-in-code">⏱️ This Week in Code</h2>
 
-<img align="right" alt="Terminal editing a React component" src="./code.gif" width="380">
+<img align="right" alt="Terminal editing a React component" src="./code.gif" width="300">
 
 <!--START_SECTION:waka-->
 ```text
@@ -149,13 +175,11 @@ Markdown     28 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<!-- Auto-updates every 24 hours via [waka-readme](https://github.com/athul/waka-readme) — a GitHub Action that syncs my WakaTime stats. -->
-
 <br clear="right">
 
 ---
 
-## Dev Quote
+<h2 id="dev-quote">💬 Dev Quote</h2>
 
 <p align="center">
   <picture>
@@ -167,30 +191,9 @@ Markdown     28 mins         ▓░░░░░░░░░░░░░░░░
 
 ---
 
-## Contribution Snake
+<h2 id="support">☕ Support</h2>
 
-<p align="center">
-  <img alt="GitHub contribution snake animation" src="./git.svg" width="100%">
-</p>
-
-<!--
-  Once your `Generate Snake` workflow runs successfully (it creates the `output` branch),
-  swap the <p> block above with this dark/light-aware version:
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azartheen/azartheen/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azartheen/azartheen/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="./git.svg">
-  </picture>
--->
-
-<!-- Auto-generated by [Platane/snk](https://github.com/Platane/snk) — a GitHub Action that renders your contribution graph as a snake game. -->
-
----
-
-## Support
-
-If something I've built saved you time or made you smile, consider fueling the next one:
+Enjoyed my open-source work or a client build? Coffee funds the next one.
 
 <p align="center">
   <a href="https://github.com/sponsors/azartheen">
@@ -204,6 +207,23 @@ If something I've built saved you time or made you smile, consider fueling the n
 
 <p align="center"><i>Thanks for stopping by — let's build something worth building.</i></p>
 
+---
+
+<h2 id="contribution-snake">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img alt="GitHub contribution snake animation" src="./git.svg" width="100%">
+</p>
+
+</td>
+<td width="40" valign="top">
+
+<img src="./right-wave.svg" alt="" width="40" height="3200">
+
+</td>
+</tr>
+</table>
+
 <!-- ═══════════════════════ FOOTER WAVE ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="" width="100%">
