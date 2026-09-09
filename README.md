@@ -16,7 +16,7 @@
 <tr>
 <td width="40" valign="top">
 
-<img src="./left-wave.svg" alt="" width="40" height="3200">
+<img src="./left-wave.svg" alt="" width="40" height="2400">
 
 </td>
 <td valign="top">
@@ -118,9 +118,24 @@ Self-taught full-stack software engineer freelancing from India. Coding since **
 <h2 id="github-stats">📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/azartheen">
-    <img alt="Azartheen's GitHub streak" src="https://streak-stats.demolab.com?user=azartheen&theme=tokyonight&hide_border=true&border_radius=12&card_width=600">
-  </a>
+ 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=azartheen&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=azartheen&theme=default&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=azartheen&theme=tokyonight&hide_border=true" alt="Azartheen's GitHub streak" width="48%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=default&hide_border=true&langs_count=8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" width="40%">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=azartheen&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub trophies">
 </p>
 
 ### At a Glance
@@ -214,15 +229,6 @@ Enjoyed my open-source work or a client build? Coffee funds the next one.
 <p align="center">
   <img alt="GitHub contribution snake animation" src="./git.svg" width="100%">
 </p>
-
-</td>
-<td width="40" valign="top">
-
-<img src="./right-wave.svg" alt="" width="40" height="3200">
-
-</td>
-</tr>
-</table>
 
 <!-- ═══════════════════════ FOOTER WAVE ═══════════════════════ -->
 
