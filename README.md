@@ -7,7 +7,7 @@
 <!-- ═══════════════════════ HERO WAVE ═══════════════════════ -->
 
 <a href="https://azfnatechki.netlify.app">
-  <img src="./assets/hero-wave.svg" alt="" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Azartheen&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20India&descAlignY=55&descSize=18" alt="" width="100%">
 </a>
 
 <h1 align="center">
@@ -41,7 +41,6 @@
   <a href="#services">Services</a> ·
   <a href="#github-stats">Stats</a> ·
   <a href="#latest-qa">Q&A</a> ·
-  <a href="#metrics">Metrics</a> ·
   <a href="#lets-build">Contact</a>
 </p>
 
@@ -189,9 +188,9 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg">
-        <img src="./assets/stats-dark.svg" alt="Azartheen's GitHub stats">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=azartheen&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&card_width=440">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=azartheen&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&card_width=440">
+        <img src="https://github-readme-stats.vercel.app/api?username=azartheen&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&card_width=440" alt="Azartheen's GitHub stats">
       </picture>
     </td>
     <td>
@@ -206,40 +205,27 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-langs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/top-langs-light.svg">
-    <img src="./assets/top-langs-dark.svg" alt="Top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=500">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azartheen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top languages">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-graph-light.svg">
-    <img src="./assets/activity-graph-dark.svg" alt="Contribution activity graph — last 31 days" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=azartheen&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity%20%E2%80%94%20last%2031%20days&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=azartheen&theme=minimal&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity%20%E2%80%94%20last%2031%20days">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=azartheen&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity%20%E2%80%94%20last%2031%20days&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution activity graph — last 31 days" width="100%">
   </picture>
 </p>
 
-<h3 align="center">Profile Insights</h3>
+<h3 align="center">Profile Trophies</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="./profile-summary-card-output/tokyonight/1-repos-per-language-card.svg" alt="Repos per language" width="100%">
-    </td>
-    <td align="center" width="50%">
-      <img src="./profile-summary-card-output/tokyonight/2-most-commit-language-card.svg" alt="Most-committed language" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./profile-summary-card-output/tokyonight/3-stats-card.svg" alt="Profile stats" width="100%">
-    </td>
-    <td align="center" width="50%">
-      <img src="./profile-summary-card-output/tokyonight/4-productive-time-card.svg" alt="Productive time (IST)" width="100%">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=azartheen&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies">
+  </a>
+</p>
 
 <h3 align="center">At a Glance</h3>
 
@@ -263,14 +249,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<h2 id="metrics">🎛️ Metrics Dashboard</h2>
-
-<p align="center">
-  <img alt="Full profile metrics dashboard" src="./metrics.svg" width="100%">
-</p>
 
 ---
 
@@ -319,16 +297,6 @@ Markdown     28 mins         ▓░░░░░░░░░░░░░░░░
   <img alt="GitHub contribution snake animation" src="./git.svg" width="100%">
 </p>
 
-<h2 id="contribution-3d">🎨 3D Contribution Graph</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-    <img alt="Isometric 3D view of contributions over the last year" src="./profile-3d-contrib/profile-green-animate.svg" width="100%">
-  </picture>
-</p>
-
 ---
 
 <h2 id="lets-build">🤝 Let's Build Something</h2>
@@ -351,4 +319,4 @@ Markdown     28 mins         ▓░░░░░░░░░░░░░░░░
 
 <!-- ═══════════════════════ FOOTER WAVE ═══════════════════════ -->
 
-<img src="./assets/footer-wave.svg" alt="" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="" width="100%">
